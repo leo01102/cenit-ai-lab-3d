@@ -2,7 +2,7 @@
 
 Modelo tridimensional y recorrido audiovisual para la propuesta de distribución y equipamiento del Laboratorio de Inteligencia Artificial (CENIT, Universidad Nacional de La Rioja).
 
-![Recorrido CENIT AI Lab](renders/cenit_lab_walkthrough.gif)
+<img src="renders/cenit_lab_walkthrough.gif" width="100%" alt="Recorrido CENIT AI Lab" />
 
 ## Contenido del Repositorio
 
