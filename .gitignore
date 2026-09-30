@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Render cache & intermediate individual frames (3+ GB)
+renders/frames/
+renders/test/*.mp4
+renders/test/seq_test_*.png
+renders/test/bench_*.png
+renders/test/test_*.png
+renders/test/lighting_test_*.png
+renders/test/photo_clips.txt
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
